@@ -7,6 +7,7 @@ using namespace std;
 
 int main()
 {
+
     float acceleration, iVelocity, fVelocity, speed;
     cout << "Enter the initial velocity figure" << endl;
     cin >> iVelocity;
